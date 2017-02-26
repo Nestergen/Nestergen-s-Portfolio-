@@ -105,13 +105,13 @@ header .profile-image:hover {
 h2{
 	text-align: center;
 	margin: auto;
-	padding: auto;
+	padding: initial;
 }
 
 p{
 	text-align: center;
 	margin-top: 20px;
-	padding: auto;
+	padding: initial;
 }
 
 .tag {
@@ -181,6 +181,7 @@ CONTACT PAGE
 
 .contact-info li.phone a{
 	background-image: url('images/phone.png')
+	
 }
 
 .contact-info li.e-mail a{
@@ -191,6 +192,11 @@ CONTACT PAGE
 	background-image: url('images/twitter.png')
 	
 	}
+
+
+
+
+}
 
 
 .contactcard:hover {
